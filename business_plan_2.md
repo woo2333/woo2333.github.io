@@ -1,0 +1,1 @@
+#1、Company purpose：一句话简单清楚而有特点的描述公司#2、Problem：用户的痛点和当下用户的行为#3、Solution：价值定位：如何创新性的解决问题，为用户创造价值#4、Why now：为什么现在是合适的时机#5、Market size：准确的描述市场（所谓准确就是要经过校准，而不是拿个报告数据）#6、Product：产品的功能和特点#7、Team：团队和董事会#8、Business model：销售渠道，收入模型#9、Competition：竞争对手和竞争优势#10、Financials：财务数据和交易结构
